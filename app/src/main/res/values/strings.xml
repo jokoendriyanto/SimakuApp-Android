@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Simaku Apps</string>
+	<string name="app_desc">Aplikasi Jurnal Guru: Pencatatan jurnal mengajar, absensi siswa, izin, refleksi, dan laporan. Meningkatkan efisiensi pengelolaan kelas, komunikasi, dan analisis data. Solusi modern untuk pendidikan yang lebih baik.</string>
+    <string name="image_view">Image View</string>
+	<string name="loading">Loading</string>
+	<string name="loading2">Loading…</string>
+	<string name="mgks_promo">www.smkmuh1-skh.sch.id</string>
+    <string name="rate_dialog_title">Beri Rating Aplikasi</string>
+    <string name="rate_dialog_message">Jika Anda menyukai aplikasi kami, bisakah Anda meluangkan waktu sebentar untuk memberikan penilaian? Ini tidak akan memakan waktu lebih dari satu menit. Terima kasih!</string>
+    <string name="rate_dialog_ok">Beri-Rating</string>
+    <string name="rate_dialog_cancel">Nanti</string>
+    <string name="rate_dialog_no">Jangan Tampilkan Lagi</string>
+	<string name="loc_fail">Yaah Gagal Menemukan Lokasi</string>
+    <string name="loc_fail_text">Haloo Mohon Cek Pengaturan GPS mu Yaaa.</string>
+    <string name="loc_fail_more">Haloo Mohon Cek Pengaturan GPS mu yaa.</string>
+    <string name="loc_perm">Saya Izin Mengakses Lokasimu Boleh?</string>
+    <string name="loc_perm_text">Izinkan aplikasi ini untuk memeriksa lokasi Anda.</string>
+    <string name="loc_perm_more">Mohon izinkan aplikasi ini mengetahui lokasi Anda untuk pengalaman keseluruhan yang lebih baik..</string>
+	<string name="dl_downloading">Sedang Mendownload File Mu Nih…</string>
+	<string name="dl_downloading2">Sabar Yaa File Mu Sedang Di Download</string>
+	<string name="fl_chooser">Pilih FileMu Disini</string>
+	<string name="went_wrong">Yaah Ada Yang Salah Nih, Mohon Dicek Lagi Yaa!</string>
+	<string name="check_connection">Yaah Smarphone Nya Tidak Terkoneksi Jaringan, Mohon Dicek Yaa!</string>
+	<string name="share_w_friends">Bagikan ke Teman</string>
+	<string name="notification_channel_name">Stoop Ada Pesan Penting</string>
+	<string name="notification_channel_desc">Dapatkan Pesan Penting Mu Disini.</string>
+	<string name="search">Cari...</string>
+	<string name="exit">Keluar</string>
+	<string name="open">Buka</string>
+	<string name="close">Tutup</string>
+	<string name="search_hint">Masukan Kata Kuncimu Disini yaa...</string>
+	<string name="connecting">Mengubungkan…</string>
+	<string name="exit_title">Konfirmasi Keluar</string>
+	<string name="exit_subtitle">Yakin Mau Keluar Dari Aplikasi Simaku?...</string>
+	<string name="print_complete">Yayy Berhasil Mencetak</string>
+	<string name="print_failed">Tahh Gagal Mencetak Nih</string>
+</resources>
